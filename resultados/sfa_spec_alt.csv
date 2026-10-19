@@ -1,0 +1,5 @@
+spec,soma,lo,hi,elasticidades,sigma_u,sigma_v,loglik
+"A: five outputs, ln(1+x) [paper]",0.9590956234370804,0.8642767079976519,1.0792940909026878,"{'km_ge230': np.float64(0.197), 'km_lt230': np.float64(0.053), 'mva': np.float64(-0.033), 'equip': np.float64(0.672), 'manobra': np.float64(0.069)}",0.6122725248094816,0.3167489175429043,-172.7653258043337
+"B: three outputs (km, MVA+Mvar, equipment+switching modules)",0.8883012263663183,0.8094044316613965,0.9748137429500723,"{'km': np.float64(0.233), 'mva': np.float64(0.012), 'modulos': np.float64(0.643)}",0.5722959197542659,0.3912476978566903,-192.71757216290573
+"C: two outputs (km, switching modules)",0.9022641244774076,0.8246138499366256,0.9617343658549791,"{'km': np.float64(0.246), 'manobra': np.float64(0.656)}",0.5555307390795836,0.41920471453242847,-200.312029134467
+"D: five outputs, ln(x + 1% of the median)",0.9519876242981782,0.8912639414832226,1.016483711887044,"{'km_ge230': np.float64(0.344), 'km_lt230': np.float64(0.086), 'mva': np.float64(0.326), 'equip': np.float64(-0.222), 'manobra': np.float64(0.419)}",0.4688199510982096,0.34735810529738526,-154.48981390600238

@@ -1,0 +1,36 @@
+,0
+res_medio_legadas_LightGBM monotone,0.1540791117631585
+res_medio_legadas_Translog (ridge),0.11896777254904789
+res_medio_legadas_Cobb-Douglas (OLS),0.49635618756734196
+bal_n,40.0
+bal_pmso17,7.478457534537295
+bal_pmso21,6.328820456339492
+bal_var_pmso_pct,-15.372649679275519
+bal_km17,123618.09282107404
+bal_km21,136375.71335586693
+bal_var_km_pct,10.32018877144334
+n_dmu_2017,45.0
+n_dmu_2021,59.0
+all_pmso17,7.581014889553369
+all_pmso21,6.719912540575979
+all_km17,124919.734821074
+all_km21,149679.95535586693
+mediana_obs_pmso,19212.336575352914
+mediana_media_dmu_pmso,16976.321442143177
+max_obs_pmso,1737531.3207148353
+n_dmu_so_subestacao,10.0
+n_obs_so_subestacao,38.0
+share_custo_so_subestacao,0.003971743055332991
+n_ge05_CRS,22.0
+n_ge05_VRS,41.0
+n_ge05_NDRS,32.0
+n_ge05_NDRS_AR,23.0
+n_ge05_CRS_AR,7.0
+n_ge05_VRS_bc,37.0
+NDRS_AR_var_pct_K1,-58.60104702190279
+NDRS_AR_media_K1,0.43822773900520845
+NDRS_AR_var_pct_K1277,-60.09396783053352
+NDRS_AR_media_K1277,0.41955065728679997
+n_hint_zero,26.0
+n_sem_registro_indisp,26.0
+n_so_subestacao_com_amz,8.0

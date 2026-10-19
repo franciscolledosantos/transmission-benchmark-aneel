@@ -1,0 +1,5 @@
+dmu,nome,ef_CRS,pares_CRS,soma_lambda_CRS,ef_VRS,pares_VRS
+AG372,ELETRONORTE,0.231,"[('CPFL TRANSMISSÃO 2019', np.float64(2.08)), ('LTTE 2019', np.float64(6.52)), ('CTEEP 2021', np.float64(0.08))]",8.7,0.638,"[('FURNAS 2021', np.float64(0.0)), ('CHESF 2021', np.float64(0.3)), ('IEMADEIRA 2021', np.float64(0.44)), ('CTEEP 2021', np.float64(0.25))]"
+AG394,FURNAS,0.265,"[('IEMADEIRA 2021', np.float64(0.49)), ('LTTE 2019', np.float64(8.58)), ('GOIÁS 2021', np.float64(4.57))]",13.6,1.0,"[('FURNAS 2021', np.float64(1.0))]"
+AG48,CHESF,0.359,"[('CPFL TRANSMISSÃO 2019', np.float64(34.8)), ('LTTE 2019', np.float64(11.98)), ('CTEEP 2020', np.float64(0.05))]",46.8,1.0,"[('CHESF 2021', np.float64(1.0))]"
+AG97,CGT,0.389,"[('ONTE 2019', np.float64(18.77)), ('LTTE 2019', np.float64(2.32)), ('CTEEP 2020', np.float64(0.14))]",21.2,0.986,"[('CHESF 2021', np.float64(0.34)), ('IEMADEIRA 2021', np.float64(0.54)), ('CTEEP 2021', np.float64(0.12))]"
